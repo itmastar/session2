@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c2c5eed-8d86-45d3-a55f-95c4a0039d20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperatorsDemo.java" afterDir="false" />
+    <list default="true" id="2c2c5eed-8d86-45d3-a55f-95c4a0039d20" name="Changes" comment="Session 3 committed">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,26 +35,41 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OperatorsDemo">
-    <configuration name="LearnDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LearnDemo" />
+  <component name="RunManager" selected="Application.PatternsDemo">
+    <configuration name="Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals" />
       <module name="StringsDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="DigitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitsDemo" />
       <module name="StringsDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorsDemo" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="StringsDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsDemo" />
+      <module name="StringsDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternsDemo" />
       <module name="StringsDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,9 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperatorsDemo" />
-        <item itemvalue="Application.LearnDemo" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PatternsDemo" />
+        <item itemvalue="Application.DigitsDemo" />
+        <item itemvalue="Application.LoopsDemo" />
+        <item itemvalue="Application.Conditionals" />
+        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +94,21 @@
       <option name="presentableId" value="Default" />
       <updated>1692249075658</updated>
     </task>
+    <task id="LOCAL-00001" summary="Session 2 committed">
+      <created>1692253935521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692253935521</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Session 3 committed">
+      <created>1692339037992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339037993</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +121,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Session 2 committed" />
+    <MESSAGE value="Session 3 committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session 3 committed" />
   </component>
 </project>
